@@ -1,0 +1,3 @@
+ls -> listar arquivos.
+cd -> mudar pasta
+pwd -> caminho do arquivo atual
